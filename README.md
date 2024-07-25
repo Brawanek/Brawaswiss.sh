@@ -1,0 +1,2 @@
+# Brawaswiss.sh
+Testing Swisstronik
